@@ -2,4 +2,4 @@ param(
     [string]$Name
 )
 
-Write-Output "Hello $Name"
+Write-Output "SLACK_OUTPUT: Hello $Name"
